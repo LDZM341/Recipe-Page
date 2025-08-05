@@ -10,6 +10,7 @@ body{
 .container{
     background-color: hsl(0, 0%, 100%);
     width: 700px;
+<<<<<<< HEAD
     height: auto;
     margin: 120px 350px;
     padding: 40px;
@@ -163,4 +164,3 @@ p,li,td{
         margin-left: 20px;
     }
 }
-    
